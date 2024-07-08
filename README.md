@@ -37,33 +37,6 @@ The **Recipes Web App** is a Django-based project that allows users to create, r
 - pip (Python package installer)
 - Virtualenv (recommended)
 
-## Project Structure
-recipes-web-app/
-│
-├── your_app/
-│   ├── migrations/
-│   ├── static/
-│   │   └── your_app/
-│   │       ├── css/
-│   │       ├── js/
-│   │       └── images/
-│   ├── templates/
-│   │   └── your_app/
-│   │       ├── base.html
-│   │       └── other_templates.html
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── models.py
-│   ├── tests.py
-│   └── views.py
-│
-├── media/
-│   └── images/
-│
-├── static/
-│   ├── css/
-│   ├── js/
-│   └── images/
+#### You can contact me on kaushikmridul3@gmail.com for feedback and projects.
 
 
